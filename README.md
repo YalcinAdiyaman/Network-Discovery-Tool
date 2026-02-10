@@ -75,11 +75,12 @@ build_exe.bat
 ## 📷 Screenshots / Ekran Görüntüleri
 
 ### Dashboard / Gösterge Paneli
-*(Placeholder for Dashboard Screenshot / Gösterge Paneli Ekran Görüntüsü buraya)*
+![Dashboard](screenshots/dashboardtr01.png)
+![Dashboard](screenshots/dashboarden01.png)
 
 ### Network Map / Ağ Haritası
-*(Placeholder for Map Screenshot / Ağ Haritası Ekran Görüntüsü buraya)*
-
+![Network Map](screenshots/dashboardtr02.png)
+![Network Map](screenshots/dashboarden02.png)
 ---
 
 ## 📞 Contact / İletişim
